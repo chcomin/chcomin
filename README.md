@@ -34,6 +34,6 @@ If you want to analyze vascular tissue samples, I've made [Pyvane](https://githu
 
 I have created many resources for students to learn Digital Image Processing and Computer Vision as well as basic programming practices (the resources are in Portuguese):
 
-- [**Computer Vision**](https://github.com/chcomin/): 51 Jupyter notebooks and lecture notes about neural network fundamentals, image classification and segmentation, multimodal models, artificial image generation, and much more. 
+- [**Computer Vision**](https://github.com/chcomin/curso-visao-computacional-2024): 51 Jupyter notebooks and lecture notes about neural network fundamentals, image classification and segmentation, multimodal models, artificial image generation, and much more. 
 - [**Digital Image Processing**](https://github.com/chcomin/curso-PDI): Jupyter notebooks regarding image filtering, multiscale processing, morphological operations, and many more topics.  
 - [**Youtube channel**](https://www.youtube.com/@cesarhcomin4117): Lectures regarding [Computer Vision](https://www.youtube.com/watch?v=XZnbzmzsJyI&list=PLV6nBLHbx0ri7Gh_szfwu3HGWCmIui4UM), [Digital Image Processing](https://www.youtube.com/watch?v=1JW1OsvsQV0&list=PLV6nBLHbx0riEUDgJrAogzpAt3qQquKVR), and [Introduction to Programming](https://www.youtube.com/watch?v=h9UGAkORZxk&list=PLV6nBLHbx0rgGYvvnQNFq6rw4zeoy6yJ6). 
